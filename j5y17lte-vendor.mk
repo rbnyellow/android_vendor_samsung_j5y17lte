@@ -67,7 +67,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j5y17lte/proprietary/vendor/etc/wifi/nvram.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram.txt \
     vendor/samsung/j5y17lte/proprietary/vendor/firmware/bcm43455.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm43455.hcd \
     vendor/samsung/j5y17lte/proprietary/vendor/firmware/fimc_is_lib.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_lib.bin \
-    vendor/samsung/j5y17lte/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin \
     vendor/samsung/j5y17lte/proprietary/vendor/firmware/nfc/sec_s3nrn81_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/nfc/sec_s3nrn81_firmware.bin \
     vendor/samsung/j5y17lte/proprietary/vendor/firmware/setfile_3m3.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_3m3.bin \
     vendor/samsung/j5y17lte/proprietary/vendor/firmware/setfile_imx258.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_imx258.bin \
